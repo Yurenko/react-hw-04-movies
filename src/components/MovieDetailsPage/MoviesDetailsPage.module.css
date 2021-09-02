@@ -1,0 +1,9 @@
+.moviesInfo {
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.moviesInfo p {
+    margin-top: 0;
+}
