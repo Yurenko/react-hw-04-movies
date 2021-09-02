@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/MovieDetailsPage/MoviesDetailsPage.module.css"],"names":[],"mappings":"AAAA,qCACI,qBAAsB,CACtB,eAAgB,CAChB,YACJ,CAEA,uCACI,YACJ","file":"4.8876a44a.chunk.css","sourcesContent":[".moviesInfo {\r\n    border: 1px solid #ccc;\r\n    margin-top: 10px;\r\n    padding: 10px;\r\n}\r\n\r\n.moviesInfo p {\r\n    margin-top: 0;\r\n}"]}
